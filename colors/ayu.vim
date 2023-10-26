@@ -269,9 +269,3 @@ hi! link diffAdded String
 "   diffComment
 
 "}}}
-"
-" This is needed for some reason: {{{
-
-let &background = s:style
-
-" }}}
